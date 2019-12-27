@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "41409378499",
+    "firebase_url": "https://memat-64eae.firebaseio.com",
+    "project_id": "memat-64eae",
+    "storage_bucket": "memat-64eae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41409378499:android:23605398c3dfbc2328ca76",
+        "android_client_info": {
+          "package_name": "com.app.aamku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41409378499-j0222mpalulm1oj9dsvu86a4rcaab9hl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.aamku",
+            "certificate_hash": "ccc924b15aff94320cfdc90cb741b78d800cf1f7"
+          }
+        },
+        {
+          "client_id": "41409378499-r49f9p0stj505stdu799kugaickr05hb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5BdaPOwcXBNZmgVhtvE0z73OVhO-iEFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41409378499-r49f9p0stj505stdu799kugaickr05hb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
